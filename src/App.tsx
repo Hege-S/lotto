@@ -9,7 +9,7 @@ function App() {
                 <p>Velkommen til Påskelotto!</p>
                 <img
                     className="rabbitPhoto"
-                    src={require("./components/photos/kanin.jpg")}
+                    src={"/lotto" + require("./components/photos/kanin.jpg")}
                     alt="rabbit"
                 />
                 <Lotto />
