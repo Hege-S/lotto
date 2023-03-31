@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd145dff.css",
+    "main.js": "/static/js/main.8f22dd26.js",
+    "static/js/787.869ae987.chunk.js": "/static/js/787.869ae987.chunk.js",
+    "static/media/kanin.jpg": "/static/media/kanin.507588ef8f2458ae705e.jpg",
+    "index.html": "/index.html",
+    "main.fd145dff.css.map": "/static/css/main.fd145dff.css.map",
+    "main.8f22dd26.js.map": "/static/js/main.8f22dd26.js.map",
+    "787.869ae987.chunk.js.map": "/static/js/787.869ae987.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd145dff.css",
+    "static/js/main.8f22dd26.js"
+  ]
+}
