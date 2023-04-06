@@ -68,6 +68,10 @@ div.lottoTallContainer {
   background-color: #f28ff5;
 }
 
+@media screen and (max-width: 760px){
+  .lotto, .tilleggsTall {width: 100px; height: 100px;}
+}
+
 .fadeIn {
   opacity: 0.9;
   animation: fade-in 1.5s ease-out forwards;
