@@ -69,7 +69,11 @@ div.lottoTallContainer {
 }
 
 @media screen and (max-width: 760px){
-  .lotto, .tilleggsTall {width: 100px; height: 100px;}
+  .lotto {width: 100px; height: 100px;}
+  .tilleggsTall {width: 100px; height: 100px;}
+  p {font-weight: 400; font-size: 2em;}
+  button {padding: 15px; font-size: 1em;}
+  .rabbitPhoto {width: 150px;}
 }
 
 .fadeIn {
