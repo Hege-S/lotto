@@ -10,7 +10,7 @@ export const Lotto = () => {
     const [numberList, setNumberList] = useState<LottoObject[]>([]);
 
     const generateUniqueNumber = (): number => {
-        const newNumber = Math.floor(Math.random() * 34) + 1;
+        const newNumber = Math.floor(Math.random() * 21) + 1;
         if (
             numberList.some((lottoObject) => lottoObject.number === newNumber)
         ) {

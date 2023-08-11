@@ -6,12 +6,15 @@ function App() {
     return (
         <div className="AppHeader">
             <div className="App">
-                <p>Velkommen til Påskelotto!</p>
-                <img
+                <p> Checkin sin GirlTech lottotrekning! </p>
+                <p className="mindreTekst">
+                    Lag deg 3 rekker med 7 tall i hver (fra 1 - 21)
+                </p>
+                {/*     <img
                     className="rabbitPhoto"
                     src={"/lotto" + require("./components/photos/kanin.jpg")}
                     alt="rabbit"
-                />
+                /> */}
                 <Lotto />
             </div>
         </div>
