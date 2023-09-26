@@ -44,3 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Note to self: When adding a project : Build it and move the build into the docs. Then change the path to the files by adding the main folder name before the /. In this project it is lotto/.
