@@ -8,7 +8,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   font-size: calc(8px + 2vmin);
 }
 
@@ -59,8 +59,8 @@ div.lottoTallContainer {
   justify-content: center;
 }
 .lotto{
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,8 +68,8 @@ div.lottoTallContainer {
 }
 
 .tilleggsTall{
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
